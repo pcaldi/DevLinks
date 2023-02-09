@@ -2,15 +2,12 @@
 
 
 
-<div  align="center">
-  <p align="center">
-  <img alt="projeto DevLinks" src=".github/preview.jpg" width="100%">
-</p>
-<p align="center">
-  <img alt="projeto DevLinks" src=".github/preview-light.jpg" width="100%">
-</p>
-
-
+<div align="center" >
+  <p>
+    <img alt="projeto DevLinks" src=".github/preview.png" width="45%">
+  </p>
+    <img alt="projeto DevLinks" src=".github/preview-light.png" width="45%">
+ 
 </div>
 
 ## :memo: Projeto
