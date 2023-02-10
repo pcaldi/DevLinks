@@ -4,9 +4,9 @@
 
 <div align="center" >
   <p>
-    <img alt="projeto DevLinks" src=".github/preview.png" width="45%">
+    <img alt="projeto DevLinks" src=".github/preview.png" width="70%">
   </p>
-    <img alt="projeto DevLinks" src=".github/preview-light.png" width="45%">
+    <img alt="projeto DevLinks light" src=".github/preview-light.png" width="70%">
  
 </div>
 
