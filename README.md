@@ -1,6 +1,5 @@
 <h1 align="center">:file_cabinet:DevLinks</h1>
 
-<<<<<<< HEAD
 
 
 <div align="center" >
@@ -9,16 +8,6 @@
   </p>
     <img alt="projeto DevLinks" src=".github/preview-light.png" width="45%">
  
-=======
-<div  align="center">
-  <p >
-  <img alt="Imagem do projeto " src=".github/preview.jpg" width="30%">
-</p>
-<p>
-  <img alt="Imagem do projeto light" src=".github/preview-light.jpg" width="30%">
-</p>
-
->>>>>>> cc39273 (change background)
 </div>
 
 ## :memo: Projeto
